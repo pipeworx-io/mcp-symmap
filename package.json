@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-symmap",
+  "version": "0.1.0",
+  "description": "SymMap v2 — Traditional Chinese Medicine association graph from symmap.org",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "symmap"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-symmap.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
