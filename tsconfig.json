@@ -10,5 +10,6 @@
     "rootDir": "src",
     "declaration": true
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["src/server.ts"]
 }
