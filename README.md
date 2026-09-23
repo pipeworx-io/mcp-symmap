@@ -9,7 +9,7 @@ carries an explicit `evidence_tier` (`traditional_use` | `human_clinical` |
 because SymMap records associations, not efficacy — nothing in it is clinical
 proof that a herb treats anything.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1669+ live data sources.
 
 ## Tools
 
@@ -119,7 +119,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1576+ data sources. The
+Both URLs reach the same gateway and the same 1669+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
