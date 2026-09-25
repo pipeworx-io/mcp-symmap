@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-symmap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SymMap v2 — Traditional Chinese Medicine association graph from symmap.org",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-0a8f86f7a7dcc973d1814fa2aaddf3b50a4d6fd2476ac56647bca821f5ac803c",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/symmap",
   "title": "Symmap",
   "description": "SymMap v2 — Traditional Chinese Medicine association graph from symmap.org",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/symmap",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-symmap",

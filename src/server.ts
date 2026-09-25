@@ -9,7 +9,7 @@ import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprot
 import pack from './index.js';
 
 const server = new Server(
-  { name: '@pipeworx/mcp-symmap', version: '0.1.0' },
+  { name: '@pipeworx/mcp-symmap', version: '0.1.1' },
   { capabilities: { tools: {} } },
 );
 
